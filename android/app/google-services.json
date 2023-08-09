@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "971379920703",
+    "project_id": "trabzonu-gez",
+    "storage_bucket": "trabzonu-gez.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971379920703:android:607b16ac9b9ce700dccd8a",
+        "android_client_info": {
+          "package_name": "com.example.bugun_ne_yesem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971379920703-l96bi90fhc5ulmn876dkoejj6u37eaec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Nl8lyIhEOB64TxWzTZwgIv-pU_uBQeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971379920703-l96bi90fhc5ulmn876dkoejj6u37eaec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
